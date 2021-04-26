@@ -1,0 +1,4 @@
+/target
+Cargo.lock
+
+bbmacrostrings_derive/target/
